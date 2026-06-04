@@ -10,9 +10,11 @@ class Estudiante:
         print(f"Edad: {self.edad}")
         print(f"Carrera: {self.carrera}")
 
+    def estudiar(self):
+        print(f"{self.nombre} está estudiando {self.carrera}")  
+
 estudiante1 = Estudiante("Jostin villón", 19, "Ingeniería en tic")                    
 estudiante1.mostrar_informacion()
 print("\n")
 estudiante2 = Estudiante("kiara Ponce", 16, "informatica")
 estudiante2.mostrar_informacion()
-
