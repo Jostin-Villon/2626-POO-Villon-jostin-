@@ -1,5 +1,4 @@
 class Estudiante:
-    role = "Estudiante"
     def __init__(self, nombre, edad, carrera):
         self.nombre = nombre
         self.edad = edad
