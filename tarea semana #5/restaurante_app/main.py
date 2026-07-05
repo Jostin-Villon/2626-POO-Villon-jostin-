@@ -18,3 +18,4 @@ mi_restaurante.agregar_cliente(cliente2)
 
 mi_restaurante.mostrar_productos()
 mi_restaurante.mostrar_clientes()
+
