@@ -61,7 +61,6 @@ class Restaurante:
         producto.categoria = categoria
         producto.precio = precio
 
-        # Actualizar las categorías disponibles
         self.categorias = {
             producto.categoria
             for producto in self.productos
@@ -82,7 +81,6 @@ class Restaurante:
 
         del self.productos_por_codigo[codigo]
 
-        # Actualizar categorías únicas
         self.categorias = {
             producto.categoria
             for producto in self.productos
@@ -135,5 +133,4 @@ class Restaurante:
         print("\n====== CATEGORÍAS ======")
 
         for categoria in sorted(self.categorias):
-            print(f"- {categoria}")
-            
+            print(f"- {categoria}")        

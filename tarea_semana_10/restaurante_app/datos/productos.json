@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": 123,
+        "nombre": "coca cola ",
+        "categoria": "bebida",
+        "precio": 1.75
+    },
+    {
+        "codigo": 234,
+        "nombre": "pepsi",
+        "categoria": "bebida",
+        "precio": 1.25
+    }
+]

@@ -189,5 +189,5 @@ def ejecutar_programa() -> None:
             print("Opción inválida. Intente nuevamente.")
 
 if __name__ == "__main__":
-    ejecutar_programa()
+    ejecutar_programa()   
     
