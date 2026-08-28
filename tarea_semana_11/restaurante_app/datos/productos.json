@@ -1,0 +1,9 @@
+[
+    {
+        "codigo": "213",
+        "nombre": "coca cola",
+        "categoria": "bebida",
+        "precio": 1.25,
+        "stock": 31
+    }
+]
