@@ -248,3 +248,4 @@ def ejecutar_programa() -> None:
 
 if __name__ == "__main__":
     ejecutar_programa()
+    
