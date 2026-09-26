@@ -1,0 +1,2 @@
+RESTAURANTE APP
+Sistema de gestión de productos, usuarios y ventas
